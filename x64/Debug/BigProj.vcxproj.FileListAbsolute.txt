@@ -1,0 +1,2 @@
+E:\Project\BigProj\x64\Debug\BigProj.exe
+E:\Project\2023C++大作业\x64\Debug\BigProj.exe
